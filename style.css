@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1 {
+h1, p {
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
